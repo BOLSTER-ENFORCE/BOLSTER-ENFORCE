@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=800&lines=🌌+Dhithimos+E+J;Cybersecurity+%7C+Penetration+Testing+%7C+Forensics;Certified+Ethical+Hacker+%7C+BCA+Student;🚀+Exploring+the+Digital+Frontier..." />
 </p>
 
+<!-- 🌌 Matrix SVG Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Matrix Animation" />
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -66,4 +71,10 @@
   <img src="https://img.shields.io/badge/PenTester-Active-00F0FF?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Forensics-Investigator-00F0FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Network-Security-00F0FF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000" />
+</p>
+
+---
+
+## 🚀 Featured Repositories
+<p align="center" style="backdrop-filter: blur(12px); background: rgba(0, 255, 255, 0.08); border-radius: 20px; padding: 15px;">
 </p>
