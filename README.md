@@ -40,43 +40,22 @@
 
 ---
 
-## 🧠 Cybersecurity Skill Dashboard
-- 🔐 [Penetration Testing](ca://s?q=Tell_me_more_about_Penetration_Testing)
-- 🕵️ [Digital Forensics](ca://s?q=Explain_Digital_Forensics)
-- 🛡️ [Network Security](ca://s?q=Discuss_Network_Security)
-- ⚔️ [Ethical Hacking](ca://s?q=Learn_about_Ethical_Hacking)
-- 🌐 [Web Application Security](ca://s?q=Web_Application_Security)
-
----
-
-## 🏆 Certifications Timeline
-- 🎓 **BCA (Ongoing)**
-- 🛡️ **Certified Ethical Hacker (CEH)**
-
----
-
-## 🎵 Spotify Now Playing
+## 🚀 Featured Repositories
 <p align="center" style="backdrop-filter: blur(12px); background: rgba(0, 255, 255, 0.08); border-radius: 20px; padding: 15px;">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31x7lq5zjz7j4q5zjz7j4q5zjz7j4q5z&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+  
+  <a href="https://github.com/dhithimos/Vigilant-Sphere">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhithimos&repo=Vigilant-Sphere&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/dhithimos/Cyber-Forensics-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhithimos&repo=Cyber-Forensics-Toolkit&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/dhithimos/PenTest-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhithimos&repo=PenTest-Lab&theme=tokyonight" />
+  </a>
+
 </p>
-
----
-
-## 🌤️ Weather & Clock Widget
-<p align="center">
-  <img src="https://weatherwidget.io/static/img/logo.png" width="100" />
-</p>
-
----
-
-## 🚀 Vigilant Sphere Project
-> A dedicated section for your **Vigilant Sphere** project — futuristic cyber defense initiative.
-
----
-
-## 🐍 Dynamic Counters
-![Profile views](https://komarev.com/ghpvc/?username=dhithimos&color=blue&style=flat)
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhithimos&theme=tokyonight&margin-w=15)
 
 ---
 
