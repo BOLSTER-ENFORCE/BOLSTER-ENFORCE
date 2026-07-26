@@ -25,6 +25,31 @@
 
 ---
 
+## 🔥 Multi‑Layered Cyber HUD
+
+<!-- Activity Row -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://img.shields.io/github/commit-activity/m/dhithimos/dhithimos?color=00F0FF&style=for-the-badge&label=Commits&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/stars/dhithimos?color=00F0FF&style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/followers/dhithimos?color=00F0FF&style=for-the-badge&label=Followers&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/issues/dhithimos/dhithimos?color=00F0FF&style=for-the-badge&label=Issues&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/issues-pr/dhithimos/dhithimos?color=00F0FF&style=for-the-badge&label=PRs&logo=github&logoColor=white&labelColor=000000" />
+  </marquee>
+</p>
+
+<!-- Certifications Row -->
+<p align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <img src="https://img.shields.io/badge/CEH-Certified-00F0FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/PenTester-Active-00F0FF?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Forensics-Investigator-00F0FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Network-Security-00F0FF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000" />
+  </marquee>
+</p>
+
+---
+
 ## 🛰️ Contribution Snake
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
